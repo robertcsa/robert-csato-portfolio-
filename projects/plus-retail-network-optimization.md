@@ -178,9 +178,9 @@ Defined and monitored:
          └──────┬──────┬──────┬─────┘
                 │      │      │
                 ▼      ▼      ▼
-           STORES   STORES   STORES
-           Urban    Suburb   Rural
-         (Low Cap) (Mid)   (High)
+            STORES   STORES   STORES
+            Urban    Suburb   Rural
+           (Low Cap) (Mid)   (High)
 
 
 ---
