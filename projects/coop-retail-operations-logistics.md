@@ -129,25 +129,25 @@ Operational tasks required:
 
 ## 6. Retail Logistics Architecture (ASCII Diagram)
 
-REGIONAL WAREHOUSE
-│
-▼
-Delivery Trucks
-│
-▼
-┌───────────────────────┐
-│ BACKROOM │
-│ (Chilled / Dry / Mix) │
-└───────────┬────────────┘
-│
-▼
-Shelf-Stocking Teams
-│
-▼
-┌───────────────────────┐
-│ SALES FLOOR │
-│ (Categories / Promo) │
-└───────────────────────┘
+                 REGIONAL WAREHOUSE
+                         │
+                         ▼
+                   Delivery Trucks
+                         │
+                         ▼
+                ┌───────────────────────┐
+                │       BACKROOM        │
+                │  (Chilled / Dry / Mix)│
+                └────────────┬──────────┘
+                             │
+                             ▼
+                  Shelf-Stocking Teams
+                             │
+                             ▼
+                ┌───────────────────────┐
+                │      SALES FLOOR      │
+                │ (Categories / Promo)  │
+                └───────────────────────┘
 
 
 This architecture required constant manual optimisation under real-world constraints (staff shortage, unpredictable demand, equipment issues).
