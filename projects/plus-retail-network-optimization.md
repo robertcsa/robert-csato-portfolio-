@@ -166,16 +166,16 @@ Defined and monitored:
                      │
                      ▼
          ┌──────────────────────────┐
-         │  REGIONAL WAREHOUSE     │
-         │   (Kempten Restart)     │
-         └───────┬────────┬────────┘
+         │  REGIONAL WAREHOUSE      │
+         │   (Kempten Restart)      │
+         └───────┬────────┬─────────┘
                  │        │
      Cross-Dock Flows   Storage Zones
                  │        │
                  ▼        ▼
          ┌──────────────────────────┐
          │   ROUTE CLUSTERS (A–F)   │
-         └──────┬──────┬──────┬────┘
+         └──────┬──────┬──────┬─────┘
                 │      │      │
                 ▼      ▼      ▼
            STORES   STORES   STORES
