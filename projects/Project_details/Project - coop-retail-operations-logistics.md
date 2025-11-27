@@ -89,20 +89,20 @@ WAREHOUSE → TRUCK → BACKROOM → STOCKING TEAM → SALES FLOOR → CUSTOMERS
 # 3.3. Diagrams (ASCII) - warehouse-to-store-diagram.txt
 
 REGIONAL WAREHOUSE
-        │
-        ▼
-   Delivery Truck
-        │
-        ▼
+│
+▼
+Delivery Truck
+│
+▼
 ┌──────────────────┐
 │     BACKROOM     │
 │ (Dry / Chilled)  │
 └───────┬──────────┘
         │
         ▼
-  Shelf Stocking
-        │
-        ▼
+Shelf Stocking
+│
+▼
 ┌──────────────────┐
 │   SALES FLOOR    │
 └──────────────────┘
@@ -111,14 +111,14 @@ REGIONAL WAREHOUSE
 # 3.3. Diagrams (ASCII) - backroom-operations-map.txt
 
 RECEIVING DOCK
-     │
-     ▼
+│
+▼
 INBOUND PALLETS
-     │
-     ├── DRY STORAGE
-     │
-     ├── CHILLED STORAGE
-     │
-     └── FREEZER AREA
+│
+├── DRY STORAGE
+│
+├── CHILLED STORAGE
+│
+└── FREEZER AREA
 
 
