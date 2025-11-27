@@ -1,0 +1,3 @@
+# Exceptional Work – 100 Words
+
+One project I am most proud of is the full-stack operational system I designed for Dräger Medical in the USA. I built an end-to-end logistics and equipment-management platform that tracked, routed and controlled a multi-million-dollar fleet of medical demonstration devices across North America. It replaced fragmented workflows with a coherent, data-driven architecture, automated critical processes, reduced errors, and supported sales, service and logistics simultaneously. The system remained in use long after my departure and became the conceptual basis for later internal tools — proving my ability to turn real operational problems into robust engineering solutions.
